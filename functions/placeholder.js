@@ -1,3 +1,9 @@
+const cloudinary = require('cloudinary').v2;
+
+cloudinary.config({
+  cloud_name: '<Your Cloud Name>'
+});
+
 exports.handler = async (event, context) => {
   const { path } = event;
 

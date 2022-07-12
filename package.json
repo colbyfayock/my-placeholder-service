@@ -11,5 +11,8 @@
     "email": "hello@colbyfayock.com",
     "url": "https://twitter.com/colbyfayock"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^1.30.0"
+  }
 }
