@@ -1,12 +1,12 @@
 # Custom Image Placeholder Service with Cloudinary & Netlify Serverless Functions
 
-Demo for tutorial [How to Create an Image Placeholder Service with Cloudinary & Netlify Functions](https://spacejelly.dev)
+Demo for tutorial [How to Create an Image Placeholder Service with Cloudinary & Netlify Functions](https://www.youtube.com/watch?v=5OXA51kdMgQ)
 
 🚀 See Demo: https://my-placeholder-service.netlify.app/.netlify/functions/placeholder/300/400/ff0000
 
-📝 Article: Coming soon...
+📝 Article: https://spacejelly.dev/posts/how-to-create-an-image-placeholder-service-api-with-cloudinary-netlify-functions/
 
-📺 Video: Coming soon...
+📺 Video: https://www.youtube.com/watch?v=5OXA51kdMgQ
 
 ## More tutorials and walkthroughs
 
